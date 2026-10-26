@@ -1,10 +1,8 @@
 # КТ 9 Алгоритмы
 
-Запуск любой задачи:
+Запуск
 
 ```bash
 javac -d out src/*.java
-java -cp out Task1
+java -cp out Task1 ( и тд ) 
 ```
-
-Замените `Task1` на номер нужной задачи.
